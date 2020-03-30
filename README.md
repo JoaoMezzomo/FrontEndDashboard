@@ -1,4 +1,4 @@
 DashBoard
 ===================================
-- Projeto criado com ASP.NET, mostrando uma possível organização para projetos com ASP.NET.
-- Criado durante curso de ASP.NET da Udemy. 
+- Projeto criado usando Bootstrap, HTML, CSS e JavaScript
+- Criado durante curso de Bootstrap da Udemy.
